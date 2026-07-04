@@ -9,7 +9,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?logo=fastapi)
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-blueviolet)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ---
 
@@ -139,7 +139,7 @@ python -m http.server 3000
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available.
 
 ---
 
