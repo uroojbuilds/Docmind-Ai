@@ -6,7 +6,7 @@ import os
 app = FastAPI(title="RAG Chatbot API")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://docmindaichatbot.netlify.app"],
+    allow_origins=["https://docmindai-chatbot.netlify.app", "https://docmindaichatbot.netlify.app"],
     allow_credentials=False,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["Content-Type", "Accept"],
